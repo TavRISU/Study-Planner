@@ -1,0 +1,5 @@
+flask
+werkzeug
+apscheduler
+waitress
+sqlite3
